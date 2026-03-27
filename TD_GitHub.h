@@ -21,6 +21,6 @@ bool estImpair(int nb);
 
 float moyenne(int nb1, int nb2, int nb3);
 
-float reduction(int prix, int reduc);
+float reduction(int prix, int reduc, int tva);
 
 int nombreMedian(int a, int b, int c);
